@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  color: #333;
+  background-color: gray;
+}
+
+header {
+  float: left;
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+  width: 20%;
+}
+
+nav {
+  float: right;
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+  width: 40%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+
+section {
+  padding: 40px;
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+.full {
+  float: left;
+
+  margin-left: 70px;
+  margin-right: 70px;
+  width: 100%;
+}
+
+h1 {
+  text-align: left;
+  padding: 40px;
+  margin: 10px;
+  color: #333;
+  background: #ccc;
+}
+
+img {
+  float: left;
+}
+
+p {
+  text-align: left;
+  padding: 10px;
+  margin: 10px;
+  color: #333;
+
+  background: #ccc;
+}
+
+.input_message {
+  height: 135px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+
+div img {
+  float: left;
+  padding: 20px;
+  width: 300px; 
+  height: 200px;
+}
+
+.bottom {
+  position: absolute;
+  top: 140px;
+  left: 100px;
+  background: white;
+}
+
+
+footer {
+  padding: 20px;
+  margin: 120px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  clear: both;
+  background: gray;
+}
