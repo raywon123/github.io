@@ -16,5 +16,5 @@ https://raywon123.github.io/TriviaGame/ )
 [Food GIFs Search](
 https://raywon123.github.io/giftastic/ )
 
-[Train Scheduler](
+[Harry Potter Train Scheduler](
 https://raywon123.github.io/train-scheduler/ )
