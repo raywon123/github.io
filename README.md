@@ -19,5 +19,5 @@ https://raywon123.github.io/giftastic/ )
 [Harry Potter Train Scheduler](
 https://raywon123.github.io/train-scheduler/ )
 
-[Date Planning Tool](
+[Date/Outing Planning Tool](
 https://raywon123.github.io/onestop/ )
