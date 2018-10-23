@@ -10,7 +10,7 @@ https://raywon123.github.io/Word-Guess-Game/ )
 [Doctor Who RPG Game](
 https://raywon123.github.io/unit-4-game/ )
 
-[Italian Food Triva Game](
+[Italian Food Trivia Game](
 https://raywon123.github.io/TriviaGame/ )
 
 [Food GIFs Search](
@@ -24,3 +24,6 @@ https://raywon123.github.io/onestop/ )
 
 [Artist, Movie and Song Information Search Node.js CLI App](
 https://github.com/raywon123/liri-node-app )
+
+[Store Front Simulation Node.js CLI App](
+https://github.com/raywon123/inventorydb )
