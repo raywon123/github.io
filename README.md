@@ -36,5 +36,5 @@ https://github.com/raywon123/liri-node-app )
 https://github.com/raywon123/inventorydb )
 
 [Friend Finder App](
-https://github.com/raywon123/FriendFinder )  |  [(GitHub Repo)](
+https://evening-temple-72106.herokuapp.com/ )  |  [(GitHub Repo)](
 https://github.com/raywon123/FriendFinder )
