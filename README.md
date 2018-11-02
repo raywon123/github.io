@@ -5,7 +5,8 @@
 https://raywon123.github.io/portfolio.html )
 
 [Odd Squad Hangman Game](
-https://raywon123.github.io/Word-Guess-Game/ )
+https://raywon123.github.io/Word-Guess-Game/ ) [(GitHub Repo)](
+https://github.com/raywon123/Word-Guess-Game )
 
 [Doctor Who RPG Game](
 https://raywon123.github.io/unit-4-game/ )
@@ -27,3 +28,6 @@ https://github.com/raywon123/liri-node-app )
 
 [Store Front Simulation Node.js CLI App](
 https://github.com/raywon123/inventorydb )
+
+[Friend Finder App](
+https://github.com/raywon123/FriendFinder )
