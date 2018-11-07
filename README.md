@@ -4,6 +4,10 @@
 [My Portfolio Page](
 https://raywon123.github.io/portfolio.html )
 
+-----------------------------------------
+
+### Project List
+
 [Odd Squad Hangman Game](
 https://raywon123.github.io/Word-Guess-Game/ )  |  [(GitHub Repo)](
 https://github.com/raywon123/Word-Guess-Game )
