@@ -29,12 +29,16 @@ https://raywon123.github.io/onestop/ )  |  [(GitHub Repo)](
 https://github.com/raywon123/onestop )
 
 
-[Artist, Movie and Song Information Search Node.js CLI App](
+[Artist, Movie and Song Information Search - Node.js CLI App](
 https://github.com/raywon123/liri-node-app )
 
 [Store Front Simulation Node.js CLI App](
 https://github.com/raywon123/inventorydb )
 
-[Friend Finder App](
+[Friend Finder - A Node.js and Express App](
 https://evening-temple-72106.herokuapp.com/ )  |  [(GitHub Repo)](
 https://github.com/raywon123/FriendFinder )
+
+[Burger Restaurant - A Node.js Express and MySQL App](
+ttps://peaceful-atoll-87533.herokuapp.com/ )  |  [(GitHub Repo)](
+https://github.com/raywon123/burger )
