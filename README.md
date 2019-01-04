@@ -52,7 +52,7 @@ https://github.com/raywon123/burger-seq )
 
 [Jump Start - A Firebase, Handlebars, Express, sequelize and MySQL App](
 https://jump-start.herokuapp.com/ )  |  [(GitHub Repo)](
-https://github.com/raywon123/project2 )
+https://github.com/raywon123/Project2 )
 
 [News Scraper - An Express and Mongo App](
 https://shrouded-beyond-16448.herokuapp.com/ )  |  [(GitHub Repo)](
